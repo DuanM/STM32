@@ -1,0 +1,14 @@
+.\gui_vnc_x.o: ..\..\emWin\GUI_X\GUI_VNC_X.c
+.\gui_vnc_x.o: ..\..\emWin\Include\GUI.h
+.\gui_vnc_x.o: ..\..\emWin\Include\GUI_ConfDefaults.h
+.\gui_vnc_x.o: ..\..\emWin\Config\GUIConf.h
+.\gui_vnc_x.o: ..\..\emWin\Include\GUI_Type.h
+.\gui_vnc_x.o: ..\..\emWin\Include\LCD.h
+.\gui_vnc_x.o: ..\..\emWin\Include\Global.h
+.\gui_vnc_x.o: ..\..\emWin\Include\GUI_Version.h
+.\gui_vnc_x.o: ..\..\emWin\Include\GUI_VNC.h
+.\gui_vnc_x.o: ..\..\emWin\Include\GUI_Private.h
+.\gui_vnc_x.o: ..\..\emWin\Include\LCD_Protected.h
+.\gui_vnc_x.o: ..\..\emWin\Include\GUI_Debug.h
+.\gui_vnc_x.o: D:\Keil_v4\ARM\ARMCC\bin\..\include\stddef.h
+.\gui_vnc_x.o: ..\..\emWin\Include\WM_GUI.h
