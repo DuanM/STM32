@@ -1,0 +1,14 @@
+..\obj\menu.o: ..\Gui\ZLG_GUI\menu.c
+..\obj\menu.o: ..\Gui\config.h
+..\obj\menu.o: ..\Gui\ZLG_GUI\GUI_CONFIG.H
+..\obj\menu.o: ..\Gui\LCDDRIVE.H
+..\obj\menu.o: ..\Gui\ZLG_GUI\GUI_BASIC.H
+..\obj\menu.o: ..\Gui\ZLG_GUI\GUI_STOCKC.H
+..\obj\menu.o: ..\Gui\ZLG_GUI\FONT_MACRO.H
+..\obj\menu.o: ..\Gui\ZLG_GUI\FONT5_7.H
+..\obj\menu.o: ..\Gui\ZLG_GUI\FONT8_8.H
+..\obj\menu.o: ..\Gui\ZLG_GUI\FONT24_32.H
+..\obj\menu.o: ..\Gui\ZLG_GUI\LOADBIT.H
+..\obj\menu.o: ..\Gui\ZLG_GUI\WINDOWS.H
+..\obj\menu.o: ..\Gui\ZLG_GUI\MENU.H
+..\obj\menu.o: ..\Gui\ZLG_GUI\SPLINE.H

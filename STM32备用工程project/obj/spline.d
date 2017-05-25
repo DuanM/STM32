@@ -1,0 +1,15 @@
+..\obj\spline.o: ..\Gui\ZLG_GUI\spline.c
+..\obj\spline.o: ..\Gui\config.h
+..\obj\spline.o: ..\Gui\ZLG_GUI\GUI_CONFIG.H
+..\obj\spline.o: ..\Gui\LCDDRIVE.H
+..\obj\spline.o: ..\Gui\ZLG_GUI\GUI_BASIC.H
+..\obj\spline.o: ..\Gui\ZLG_GUI\GUI_STOCKC.H
+..\obj\spline.o: ..\Gui\ZLG_GUI\FONT_MACRO.H
+..\obj\spline.o: ..\Gui\ZLG_GUI\FONT5_7.H
+..\obj\spline.o: ..\Gui\ZLG_GUI\FONT8_8.H
+..\obj\spline.o: ..\Gui\ZLG_GUI\FONT24_32.H
+..\obj\spline.o: ..\Gui\ZLG_GUI\LOADBIT.H
+..\obj\spline.o: ..\Gui\ZLG_GUI\WINDOWS.H
+..\obj\spline.o: ..\Gui\ZLG_GUI\MENU.H
+..\obj\spline.o: ..\Gui\ZLG_GUI\SPLINE.H
+..\obj\spline.o: D:\K5\ARM\ARMCC\bin\..\include\math.h

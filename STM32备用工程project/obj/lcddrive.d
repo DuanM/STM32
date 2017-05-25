@@ -1,0 +1,14 @@
+..\obj\lcddrive.o: ..\Gui\lcddrive.c
+..\obj\lcddrive.o: ..\Gui\config.h
+..\obj\lcddrive.o: ..\Gui\ZLG_GUI\GUI_CONFIG.H
+..\obj\lcddrive.o: ..\Gui\LCDDRIVE.H
+..\obj\lcddrive.o: ..\Gui\ZLG_GUI\GUI_BASIC.H
+..\obj\lcddrive.o: ..\Gui\ZLG_GUI\GUI_STOCKC.H
+..\obj\lcddrive.o: ..\Gui\ZLG_GUI\FONT_MACRO.H
+..\obj\lcddrive.o: ..\Gui\ZLG_GUI\FONT5_7.H
+..\obj\lcddrive.o: ..\Gui\ZLG_GUI\FONT8_8.H
+..\obj\lcddrive.o: ..\Gui\ZLG_GUI\FONT24_32.H
+..\obj\lcddrive.o: ..\Gui\ZLG_GUI\LOADBIT.H
+..\obj\lcddrive.o: ..\Gui\ZLG_GUI\WINDOWS.H
+..\obj\lcddrive.o: ..\Gui\ZLG_GUI\MENU.H
+..\obj\lcddrive.o: ..\Gui\ZLG_GUI\SPLINE.H
